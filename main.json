@@ -1,6 +1,6 @@
 {
   "assets": {
-    "Chest": "",
+    "Frame": "https://rdsolution611.github.io/Birthday_frame/frame.json",
     "privacyPolicy": "https://clashhero.in/privacy.php",
     "contactUs": "https://clashhero.in/support/index.php",
     "rateUs": "https://apps.apple.com/app/id6504486475",
@@ -8,15 +8,15 @@
   },
   "adIds": {
       "appOpen": "ca-app-pub-3940256099942544/4411468910",
-      "fullScreen": "ca-app-pub-3940256099942544/4411468910",
-      "reward": "ca-app-pub-3940256099942544/1712485313",
-      "rewardInter": "ca-app-pub-3940256099942544/6978759866",
-      "banner": "ca-app-pub-3940256099942544/2435281174",
-      "native": "ca-app-pub-3940256099942544/3986624511"
+      "fullScreen": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "rewardInter": "ca-app-pub-3940256099942544/5354046379",
+      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "native": "ca-app-pub-3940256099942544/2247696110"
   },
   "1.0.0": {
     "globalConfig": {
-      "globalAdFlag": false,
+      "globalAdFlag": true,
       "globalNative": true,
       "globalBanner": true,
       "rewardOverRide": false,
@@ -25,7 +25,18 @@
       "maxFailed": 2
     },
     "screens": {
-      "/HomePage": {
+      "/BirthdayFrameHome": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "0": 10
+        },
+        "banner": 0,
+        "native": 0
+      },
+       "/BirthdayFrameEdit": {
         "localAdFlag": true,
         "localClick": [
           0
