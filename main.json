@@ -24,6 +24,9 @@
       "rateUsTimer": 600,
       "maxFailed": 2
     },
+    "isUserConsent": false,
+    "isUpdate": false,
+    "updateUrl": "",
     "screens": {
       "/BirthdayFrameHome": {
         "localAdFlag": true,
