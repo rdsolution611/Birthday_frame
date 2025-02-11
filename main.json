@@ -45,10 +45,11 @@
        "/BirthdayFrameEdit": {
         "localAdFlag": true,
         "localClick": [
-          0
+          4,5
         ],
         "localFail": {
-          "0": 10
+          "4": 5,
+          "5" : 4
         },
         "banner": 0,
         "native": 0
