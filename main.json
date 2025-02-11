@@ -45,7 +45,7 @@
        "/BirthdayFrameEdit": {
         "localAdFlag": true,
         "localClick": [
-          4,5
+          4,0
         ],
         "localFail": {
           "4": 5,
