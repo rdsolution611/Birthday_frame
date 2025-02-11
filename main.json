@@ -7,12 +7,15 @@
     "shareApp": "https://apps.apple.com/app/id6504486475"
   },
   "adIds": {
+    "google": {
       "appOpen": "ca-app-pub-3940256099942544/4411468910",
       "fullScreen": "ca-app-pub-3940256099942544/1033173712",
       "reward": "ca-app-pub-3940256099942544/5224354917",
       "rewardInter": "ca-app-pub-3940256099942544/5354046379",
       "banner": "ca-app-pub-3940256099942544/9214589741",
       "native": "ca-app-pub-3940256099942544/2247696110"
+    },
+      
   },
   "1.0.0": {
     "globalConfig": {
